@@ -1,0 +1,23 @@
+Administratrator/Recepcjonista 
+Lekarz
+Pacjent
+
+Administrator:
+Mo¿liwoœæ modyfikowania danych u¿ytkownika
+Dodawanie pacjentów i lekarzy
+//Dodawanie/usuwanie gabinetów
+Edycja wizyt (Dodaj/usun/prze³ó¿)
+Edycja grafików lekarzy
+Odczyt danych pacjenta
+
+Lekarz:
+dostêp do danych pacjenta i ich edycja
+zapis recept
+dostêp do grafiku
+dostêp do gabinetu
+
+Pacjent:
+wybór lekarza
+ustalenie daty wizyty
+
+
